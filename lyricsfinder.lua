@@ -219,9 +219,7 @@ function remove_artist_from_title(title, artist)
         return title
     end
 
-    -- removes:
-    -- " - Shinedown"
-    -- " Shinedown"
+
     title = string.gsub(
         title,
         "%s*%-%s*" .. artist .. "$",
