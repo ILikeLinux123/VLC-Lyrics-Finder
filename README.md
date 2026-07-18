@@ -6,6 +6,8 @@
 
 # ✅ THIS HAS BEEN CONFIRMED USING CDS
 
+# 🦊 THIS HAS BEEN TESTED WITH FIREFOX IF THIS DOESNT WORK ON CHROME PLEASE ADD IT TOO ISSUES
+
 A lightweight VLC extension that automatically finds lyrics for the currently playing song.
 
 This extension watches the song currently playing in VLC and can automatically open the matching Genius lyrics page in your browser. It is designed to work without API keys, accounts, or extra services.
